@@ -248,7 +248,7 @@ main {
     width: 100%;
     height: 15.2vh;
     margin-bottom: -2px;
-    background-image: url(/imagens/topoadocao.png);
+    background-image: url(/imagens/topoAdocaobg.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: bottom;
@@ -258,7 +258,7 @@ main {
     width: 100%;
     height: 15.2vh;
     margin-top: -2px;
-    background-image: url(/imagens/baixoadocao.png);
+    background-image: url(/imagens/baixoadocaobg.png);
     background-repeat: no-repeat;
     background-size: 100% auto;
 }
