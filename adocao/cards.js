@@ -22,7 +22,7 @@ while (i < 20) {
     novoFlipTras.className = "flip-card-back"
     // nomeando as classes
 
-    let caminhoImg = "/imagensAnimais/animal0"
+    let caminhoImg = "/imagemAnimais/animal0"
     caminhoImg = caminhoImg + i
     caminhoImg = caminhoImg + ".jpg"
     //criando o caminho para a imagem
@@ -32,7 +32,7 @@ while (i < 20) {
 
 
 
-    let caminhoInfos = "/infosAnimais/animal0"
+    let caminhoInfos = "/infoAnimais/animal0"
     caminhoInfos = caminhoInfos + i
     caminhoInfos = caminhoInfos + ".txt"
     // criando o caminho para as informacoes
